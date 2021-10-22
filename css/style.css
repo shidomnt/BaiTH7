@@ -41,6 +41,7 @@
     float: left;
     padding: 5px 5px;
     color: #FFF;
+    height: inherit;
 }
 
 .header-nav-item a {
