@@ -1,0 +1,84 @@
+.main-content {
+    margin: 0px 150px;
+}
+
+.main-content .sub-nav {
+    width: 460px;
+}
+
+.main-content .sub-nav-list {
+    list-style-type: none;
+    border-bottom: 1px dashed rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-item {
+    display: inline-block;
+    padding: 2px 0px;
+}
+
+.main-content .sub-nav-item a {
+    text-decoration: none;
+    color: rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-list .item1 {
+    padding-right: 10px;
+    border-right: 3px dashed rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-list .item2 {
+    padding-left: 5px;
+}
+
+.main-content-banner {
+    margin: 20px 0px;
+}
+
+.main-content-description {
+    padding-right: 30px;
+}
+
+.services {
+    overflow: hidden;
+}
+
+.service-list {
+    list-style-type: none;
+}
+
+.service-list.list1 {
+    float: left;
+    width: 45%;
+}
+
+.service-list.list2 {
+    float: right;
+    width: 45%;
+}
+
+.service-item {
+    display: inline-block;
+    overflow: hidden;
+    font-size: 15px;
+    width: 170px;
+    height: 55px;
+}
+
+.service-image {
+    width: 55px;
+    float: left;
+}
+
+.service-text {
+    width: 110px;
+    height: inherit;
+    float: right;
+    position: relative;
+    vertical-align: bottom;
+}
+
+.service-text-header {
+    color: rgb(94, 90, 79);
+    position: absolute;
+    bottom: 0;
+}

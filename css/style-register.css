@@ -1,0 +1,48 @@
+.width-100 {
+    width: 100% !important;
+}
+
+.width-90 {
+    width: 90% !important;
+}
+
+.width-60 {
+    width: 60% !important;
+}
+
+.form-sub-header {
+    background-color: #9595db;
+    width: 100% !important;
+}
+
+.guide {
+    font-style: italic;
+    font-weight: normal !important;
+    font-size: 12px;
+}
+
+.main-content {
+    font-weight: 550;
+}
+
+form {
+    margin: 10px 30px 0px 10px;
+}
+
+table tr td:first-child {
+    width: 35%;
+    vertical-align: top;
+}
+
+table tr:last-child td {
+    text-align: right;
+}
+
+table tr:last-child td button {
+    padding: 0px 5px;
+}
+
+.FAQ {
+    width: 100%;
+    resize: none;
+}

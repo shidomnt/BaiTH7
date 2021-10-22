@@ -1,0 +1,70 @@
+.main-content {
+    margin: 0px 150px;
+}
+
+.main-content .sub-nav {
+    width: 460px;
+}
+
+.main-content .sub-nav-list {
+    list-style-type: none;
+    border-bottom: 1px dashed rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-item {
+    display: inline-block;
+    padding: 2px 0px;
+}
+
+.main-content .sub-nav-item a {
+    text-decoration: none;
+    color: rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-list .item1 {
+    padding-right: 10px;
+    border-right: 3px dashed rgb(94, 90, 79);
+}
+
+.main-content .sub-nav-list .item2 {
+    padding-left: 5px;
+}
+
+.main-content-banner {
+    margin: 20px 0px;
+}
+
+.main-content-description {
+    margin-bottom: 20px;
+    padding-right: 30px;
+}
+
+.services {}
+
+.service-list {
+    list-style-type: none;
+}
+
+.service-item {
+    display: inline-block;
+    overflow: hidden;
+    width: 150px;
+    height: 90px;
+    font-size: 15px;
+}
+
+.service-image {
+    width: 30%;
+    float: left;
+}
+
+.service-text {
+    width: 69%;
+    float: right;
+}
+
+.service-text-header {
+    color: rgb(94, 90, 79);
+}
+
+.service-text-description {}

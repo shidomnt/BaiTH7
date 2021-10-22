@@ -1,0 +1,53 @@
+.main-content {}
+
+.slide-text {
+    line-height: 20px;
+    border-bottom: 3px solid #9595db;
+}
+
+.main-content-banner {
+    margin-top: -5px;
+}
+
+.main-content-banner-list {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.main-content-banner-item {
+    float: left;
+}
+
+.article {}
+
+.article-header {
+    margin: 15px 2px 25px;
+}
+
+.article-content {
+    margin: 0px 10px;
+}
+
+.article-content-part {
+    overflow: hidden;
+    margin: 20px 0px;
+    position: relative;
+    height: 120px;
+}
+
+.article-content-part .image {
+    float: left;
+    width: 30%;
+    height: inherit;
+}
+
+.article-content-part .description {
+    float: right;
+    width: 68%;
+    padding-top: 2px;
+}
+
+.article-content-part .description-footer {
+    position: absolute;
+    bottom: 0;
+}
